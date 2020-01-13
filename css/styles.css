@@ -40,13 +40,13 @@ a{
 
 .bottom-cloud{
   position: absolute;
-  left: 360px;
-  bottom: 300px;
+  left: 20rem;
+  bottom: 20rem;
 }
 .top-cloud{
   position: absolute;
-  top: 40px;
-  right: 350px;
+  top: 5rem;
+  right: 20rem;
 }
 .enes-picture{
   border-radius: 100%;
